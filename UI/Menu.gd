@@ -1,5 +1,7 @@
 extends Control
 
+var sound_3 = null;
+
 func _ready():
 	pass
 
